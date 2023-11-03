@@ -1,0 +1,4 @@
+Base de Datos: He elegido este documento ya que me permite crear un nuevo usuario dentro de Oracle.
+Entorno de Desarrollo: He elegido este documento ya que me permite aprender y editar diagramas de flujo.
+Programacion: He elegido este documento ya que fue un ejercicio simple de elaborar y editar.
+Lenguaje de Marcas: He elegido este documento ya que me permite ver el horario escolar sin hacer uso de la página web del instituto.
